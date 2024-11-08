@@ -11,4 +11,5 @@ fun main() {
 
     numOfWorkers = 1999 // уменьшение количества работников на 1 из-за увольнения
     println(numOfWorkers)
+    
 }
